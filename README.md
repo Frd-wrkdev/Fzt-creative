@@ -28,29 +28,6 @@ A modern, high-performance website built with React and Vite, offering professio
 - **CSS Processing:** PostCSS with cssnano
 - **Font:** Inter (Google Fonts)
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/webjasaFZT.git
-```
-
-2. Install dependencies:
-```bash
-cd webjasaFZT
-npm install
-```
-
-3. Run development server:
-```bash
-npm run dev
-```
-
-4. Build for production:
-```bash
-npm run build
-```
-
 ## 📱 Progressive Web App
 
 - Installable on mobile devices

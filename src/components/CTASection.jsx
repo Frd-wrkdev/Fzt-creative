@@ -6,7 +6,7 @@ const CTASection = () => {
       location: 'CTA Section',
       timestamp: new Date().toISOString()
     });
-    window.location.href = 'https://wa.me/0895370467172';
+    window.location.href = 'https://wa.me/62895370467172';
   };
 
   return (
@@ -31,9 +31,8 @@ const CTASection = () => {
           </p>
         </div>
 
-        <div className="flex flex-col sm:flex-row gap-6 justify-center items-center animate-fadeInUp">
-          <a
-            href="https://wa.me/6289537046717"
+        <div className="flex flex-col sm:flex-row gap-6 justify-center items-center animate-fadeInUp">          <a
+            href="https://wa.me/62895370467172"
             className="group relative px-8 py-4 bg-gradient-to-r from-green-500 to-green-400 text-white font-semibold rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-green-500/25 flex items-center gap-2"
             onClick={handleClick}
           >

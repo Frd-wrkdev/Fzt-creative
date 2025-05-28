@@ -6,7 +6,7 @@ const CTASection = () => {
       location: 'CTA Section',
       timestamp: new Date().toISOString()
     });
-    window.location.href = 'https://wa.me/62895370467172';
+    window.location.href = 'https://wa.me/0895370467172';
   };
 
   return (
